@@ -7368,8 +7368,9 @@ html[data-bs-theme=dark] .social__link--style2 {
 .service_box div {
   background-image: url('../images/bg/image6.png');
   background-repeat: no-repeat;
-  background-position: center cente;
-  background-size: cover 100%;
+  background-position: 90% bottom;
+  background-size: 130% 70%;
+  overflow: visible !important;
   height: 100%;
 }
 
