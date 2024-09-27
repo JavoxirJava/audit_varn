@@ -7375,6 +7375,27 @@ html[data-bs-theme=dark] .social__link--style2 {
   height: 300px;
 }
 
+.service_bg {
+  position: absolute;
+  width: 500px;
+  height: 150px;
+  background-image: url('../images/bg/bg-image.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  opacity: 30%;
+  z-index: 0;
+}
+
+.service_bg-1 {
+  transform: rotate(-27deg);
+}
+
+.service_bg-2 {
+  left: 65%;
+  top: 5%;
+  transform: rotate(12deg);
+}
 
 
 
