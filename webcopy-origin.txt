@@ -1,0 +1,800 @@
+Uri: https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap
+File Name: C:\Downloaded Web Sites\thetork.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8FUg.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmom8FUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8FUg.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP8FUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP91Ug.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmoP91Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8FUg.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpo8FUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8FUg.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmpR8FUg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq991Ug.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmq991Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP91Ug.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmqP91Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR91Ug.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1kMImSLYBIv1o4X1M8cce4OdVisMz5nZRqy6cmmmU3t2FQWEAEOvV9wNvrwlNstMKW3Y6K5WMwXeVy3GboJ0kTHmrR91Ug.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G1ilntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClntA.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4G5ClntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5ntA.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GCC5ntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5ntA.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4Gfy5ntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClntA.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GiClntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5ntA.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GMS5ntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5ntA.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVi5ntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunitosans/v15/pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilntA.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\nunitosans\v15\pe1mMImSLYBIv1o4X1M8ce2xCx3yop4tQpF_MeTm0lfGWVpNn64CL7U8upHZIbMV51Q42ptCp5F5bxqqtQ1yiU4GVilntA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejYHtGyI.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\ubuntu\v20\4iCp6KVjbNBYlgoKejYHtGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZftWyI.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\ubuntu\v20\4iCp6KVjbNBYlgoKejZftWyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCp6KVjbNBYlgoKejZPsmyI.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\ubuntu\v20\4iCp6KVjbNBYlgoKejZPsmyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgo6eA.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\ubuntu\v20\4iCs6KVjbNBYlgo6eA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCu6KVjbNBYlgoKeg7z.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\ubuntu\v20\4iCu6KVjbNBYlgoKeg7z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzTtw.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\ubuntu\v20\4iCv6KVjbNBYlgoC1CzTtw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3Ttw.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3Ttw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCxCvTtw.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\s\ubuntu\v20\4iCv6KVjbNBYlgoCxCvTtw.ttf
+Content Type: font/ttf
+
+Uri: https://thetork.com/demos/html/torkbiz/404.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\404.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/about.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\about.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/css/all.min.css
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/css/aos.css
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\css\aos.css
+Content Type: text/css
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/css/lightcase.css
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\css\lightcase.css
+Content Type: text/css
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/css/style.css
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\css\style.css
+Content Type: text/css
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/about/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\about\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/about/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\about\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/about/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\about\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/about/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\about\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/about/icon/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\about\icon\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/about/icon/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\about\icon\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/about/icon/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\about\icon\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/about/shape/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\about\shape\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/about/shape/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\about\shape\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/about/shape/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\about\shape\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/about/shape/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\about\shape\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/account/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\account\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/account/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\account\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/account/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\account\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/banner/home2/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\banner\home2\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/banner/shape/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\banner\shape\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/banner/shape/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\banner\shape\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/banner/shape/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\banner\shape\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/banner/shape/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\banner\shape\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/banner/shape/5.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\banner\shape\5.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/bg/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\bg\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/bg/5.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\bg\5.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/10.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\10.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/11.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\11.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/12.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\12.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/13.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\13.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/14.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\14.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/15.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\15.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/5.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\5.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/7.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\7.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/8.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\8.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/9.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\9.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/author/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\author\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/author/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\author\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/author/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\author\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/author/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\author\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/author/5.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\author\5.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/author/6.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\author\6.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/author/7.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\author\7.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/author/8.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\author\8.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/details/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\details\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/details/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\details\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/details/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\details\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/icon/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\icon\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/icon/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\icon\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/icon/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\icon\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/recent/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\recent\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/recent/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\recent\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/recent/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\recent\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/recent/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\recent\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/user/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\user\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/user/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\user\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/user/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\user\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/user/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\user\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/blog/user/replay.svg
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\blog\user\replay.svg
+Content Type: image/svg+xml
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/contact/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\contact\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/contact/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\contact\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/contact/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\contact\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/cta/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\cta\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/cta/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\cta\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/cta/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\cta\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/cta/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\cta\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/cta/5.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\cta\5.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/feature/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\feature\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/feature/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\feature\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/feature/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\feature\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/feature/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\feature\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/feature/5.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\feature\5.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/footer/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\footer\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/footer/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\footer\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/footer/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\footer\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/footer/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\footer\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/footer/apple.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\footer\apple.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/footer/play.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\footer\play.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/icon/1.svg
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\icon\1.svg
+Content Type: image/svg+xml
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/icon/check.svg
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\icon\check.svg
+Content Type: image/svg+xml
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/icon/moon.svg
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\icon\moon.svg
+Content Type: image/svg+xml
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/icon/page-header/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\icon\page-header\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/icon/page-header/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\icon\page-header\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/icon/page-header/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\icon\page-header\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/logo/logo-dark.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\logo\logo-dark.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/logo/Logo-white.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\logo\Logo-white.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/logo/logo.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\logo\logo.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/logo/preloader.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\logo\preloader.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/others/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\others\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/others/error.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\others\error.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/others/google.svg
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\others\google.svg
+Content Type: image/svg+xml
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/partner/light/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\partner\light\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/partner/light/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\partner\light\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/partner/light/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\partner\light\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/partner/light/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\partner\light\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/partner/light/5.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\partner\light\5.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/service/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\service\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/service/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\service\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/service/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\service\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/service/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\service\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/service/5.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\service\5.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/service/6.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\service\6.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/service/bg.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\service\bg.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team-details/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team-details\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/5.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\5.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/6.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\6.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/7.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\7.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/8.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\8.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/home2/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\home2\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/home2/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\home2\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/home2/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\home2\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/home2/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\home2\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/home2/5.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\home2\5.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/home2/6.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\home2\6.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/home2/7.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\home2\7.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/home2/8.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\home2\8.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/icon/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\icon\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/icon/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\icon\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/team/icon/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\team\icon\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/testimonial/1.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\testimonial\1.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/testimonial/2.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\testimonial\2.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/testimonial/3.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\testimonial\3.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/testimonial/4.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\testimonial\4.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/testimonial/5.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\testimonial\5.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/images/testimonial/6.png
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\images\testimonial\6.png
+Content Type: image/png
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/js/all.min.js
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\js\all.min.js
+Content Type: application/javascript
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/js/aos.js
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\js\aos.js
+Content Type: application/javascript
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\js\custom.js
+Content Type: application/javascript
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/js/fslightbox.js
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\js\fslightbox.js
+Content Type: application/javascript
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/js/purecounter_vanilla.js
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\js\purecounter_vanilla.js
+Content Type: application/javascript
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\webfonts\fa-v4compatibility.ttf
+Content Type: application/octet-stream
+
+Uri: https://thetork.com/demos/html/torkbiz/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\assets\webfonts\fa-v4compatibility.woff2
+Content Type: application/font-woff2
+
+Uri: https://thetork.com/demos/html/torkbiz/blog-details.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\blog-details.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/blog-sidebar.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\blog-sidebar.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/blogs.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\blogs.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/contact.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\contact.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/forgot-pass-2.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\forgot-pass-2.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/forgot-pass.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\forgot-pass.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/index-2-dark.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\index-2-dark.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/index-2-light.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\index-2-light.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/index-2.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\index-2.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/index.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\index.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/index1-dark.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\index1-dark.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/index1-light.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\index1-light.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/price.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\price.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/service-details.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\service-details.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/services.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\services.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/signin-2.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\signin-2.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/signin.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\signin.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/signup-2.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\signup-2.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/signup.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\signup.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/team-2.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\team-2.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/team-details.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\team-details.html
+Content Type: text/html
+
+Uri: https://thetork.com/demos/html/torkbiz/team.html
+File Name: C:\Downloaded Web Sites\thetork.com\demos\html\torkbiz\team.html
+Content Type: text/html
+
