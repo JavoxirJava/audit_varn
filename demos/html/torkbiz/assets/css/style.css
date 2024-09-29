@@ -7508,6 +7508,16 @@ html[data-bs-theme=dark] .social__link--style2 {
   box-sizing: border-box;
   padding: 30px;
   background-color: rgba(245, 248, 253, 0);
+  transition: transform .5s;
+  cursor: pointer;
+}
+
+.slide:hover {
+  transform: translateY(-10px);
+}
+
+.slide:hover h4, .slide:hover p {
+  color: var(--brand-color);
 }
 
 .slide::after {
@@ -7534,6 +7544,7 @@ html[data-bs-theme=dark] .social__link--style2 {
   font-family: Montserrat, sans-serif;
   padding: 0 10px;
   text-align: center;
+  transition: color .5s;
 }
 
 .slide h4 {
