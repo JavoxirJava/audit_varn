@@ -290,7 +290,7 @@ new PureCounter();
 // =================== count end here =================== //
 
 
-const s = 100000;
+const s = 3000;
         const slider = document.querySelector('.slider');
         const slides = document.querySelectorAll('.slide');
         const prevBtn = document.querySelector('.prev-btn');
