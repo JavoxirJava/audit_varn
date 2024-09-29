@@ -8096,7 +8096,7 @@ textarea:focus-within {
   cursor: pointer;
   min-width: 400px;
   max-height: 70px;
-  margin: 0 30px 0 0 !important;
+  margin: 0 30px 20px 0 !important;
   padding: 15px 25px;
 }
 
@@ -8777,6 +8777,12 @@ html[data-bs-theme=dark] .social__link--style2 {
   transition: border .5s, box-shadow .5s;
 }
 
+@media screen and (max-width: 1200px) {
+  .news_box>div {
+    width: 48%;
+  }
+}
+
 .news_box>div:hover {
   border: 1px solid var(--brand-color);
   box-shadow: 0 0 30px #d5d2d2;
@@ -8871,6 +8877,12 @@ html[data-bs-theme=dark] .social__link--style2 {
   background-color: rgba(245, 248, 253, 0);
   transition: transform .5s;
   cursor: pointer;
+}
+
+@media screen and (max-width: 1200px) {
+  .slide {
+    min-width: 33%;
+  }
 }
 
 .slide:hover {
