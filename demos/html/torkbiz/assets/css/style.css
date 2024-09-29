@@ -7557,6 +7557,60 @@ html[data-bs-theme=dark] .social__link--style2 {
   margin: 0;
 }
 
+.blog__writer img{
+  height: 80px;
+  width: 80px;
+  max-width: 80px;
+}
+
+.blog__writer p {
+  font-size: 22px;
+  font-weight: 600;
+  font-family: Montserrat, sans-serif;
+}
+
+.blog__writer span {
+  font-size: 18px;
+  font-family: Nunito, sans-serif;
+}
+
+.blog__content > h5 {
+  font-size: 20px;
+}
+
+.blog__content > p {
+  font-size: 16px;
+  line-height: 21.82px;
+  color: #000;
+  font-family: Nunito, sans-serif;
+  height: 130px;
+}
+
+.blog__meta svg {
+  fill: #FBA033;
+}
+
+.blog__meta {
+  padding: 0 0 10px;
+}
+
+.cta-1, .cta-2 {
+  position: absolute;
+  z-index: -1;
+}
+
+.cta-1 {
+  bottom: 20%;
+  left: 2%;
+  transform: rotate(-10deg);
+}
+
+.cta-2 {
+  top: 7%;
+  left: 68%;
+}
+
+
 
 
 
