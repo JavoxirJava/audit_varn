@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto-Rotating Slider</title>
+    <style>
+        /* General styling for body and center content */
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f9;
+        }
+        
+        /* Container for the slider */
+        .slider-container {
+            width: 80%;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* Styling for the slider track */
+        .slider-track {
+            display: flex;
+            transition: transform 0.5s ease;
+        }
+
+        /* Each slide styling */
+        .slide {
+            flex: 1 0 25%; /* Four slides visible */
+            box-sizing: border-box;
+            padding: 10px;
+            text-align: center;
+            background-color: #ffffff;
+            border-radius: 5px;
+            margin: 0 5px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Styling for Prev and Next buttons */
+        .prev, .next {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background-color: #333;
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            z-index: 10;
+        }
+
+        .prev {
+            left: 10px;
+        }
+
+        .next {
+            right: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="slider-container">
+        <!-- Slider track that holds all slides -->
+        <div class="slider-track">
+            <div class="slide">Slide 1 (Return)</div>
+            <div class="slide">Slide 2</div>
+            <div class="slide">Slide 3</div>
+            <div class="slide">Slide 4 (Winning)</div>
+            <div class="slide">Slide 5</div>
+            <div class="slide">Slide 6</div>
+            <div class="slide">Slide 7</div>
+            <div class="slide">Slide 8</div>
+        </div>
+        <!-- Prev and Next buttons -->
+        <button class="prev" onclick="prevSlide()">Prev</button>
+        <button class="next" onclick="nextSlide()">Next</button>
+    </div>
+
+    <script>
+        // JavaScript to control the slider functionality
+
+        const sliderTrack = document.querySelector('.slider-track');
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+        let currentIndex = 0;
+        const visibleSlides = 4;
+        const slideWidth = slides[0].offsetWidth + 10; // Including margin
+        
+        // Function to move to the next slide
+        function nextSlide() {
+            if (currentIndex < totalSlides - visibleSlides) {
+                currentIndex++;
+            } else {
+                currentIndex = 0;
+            }
+            sliderTrack.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+        }
+
+        // Function to move to the previous slide
+        function prevSlide() {
+            if (currentIndex > 0) {
+                currentIndex--;
+            } else {
+                currentIndex = totalSlides - visibleSlides;
+            }
+            sliderTrack.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+        }
+
+        // Auto slide function every 3 seconds
+        setInterval(nextSlide, 3000);
+    </script>
+
+</body>
+</html>
+
+<!-- https://www.yeschat.ai/gpts-9t563okK8UD-HTML-CSS-JavaScript-Code-Generator -->

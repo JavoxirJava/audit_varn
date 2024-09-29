@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slider Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .slider-container {
+            position: relative;
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+
+        .slider {
+            display: flex;
+            transition: transform 0.5s ease;
+        }
+
+        .slide {
+            min-width: 25%;
+            /* 100% / 4 slides */
+            box-sizing: border-box;
+            padding: 20px;
+            background-color: #f4f4f4;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+
+        .prev,
+        .next {
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            background-color: rgba(0, 0, 0, 0.5);
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+        }
+
+        .prev {
+            left: 10px;
+        }
+
+        .next {
+            right: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="slider-container">
+        <div class="slider">
+            <div class="slide">Slide 1</div>
+            <div class="slide">Slide 2</div>
+            <div class="slide">Slide 3</div>
+            <div class="slide">Slide 4</div>
+            <div class="slide">Slide 5</div>
+            <div class="slide">Slide 6</div>
+        </div><button class="prev" onclick="moveSlide(-1)">&#10094;</button><button class="next"
+            onclick="moveSlide(1)">&#10095;</button>
+    </div>
+    <script>
+        let currentIndex = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+
+        function showSlides() {
+            currentIndex++; if (currentIndex >= totalSlides) {
+                currentIndex = 0; // reset to the first slide}updateSliderPosition();  
+            }
+        }
+
+        function moveSlide(direction) {
+            currentIndex += direction; if (currentIndex < 0) {
+                currentIndex = totalSlides - 1; // wrap to the last slide} else if (currentIndex >= totalSlides) {currentIndex = 0; // wrap to the first slide}updateSliderPosition();  
+            }
+        }
+
+        function updateSliderPosition() {
+            const slider = document.querySelector('.slider'); const offset = -(currentIndex * 25); // 25% width per slideslider.style.transform = `translateX(${offset}%)`;  
+        }
+
+        // Automatically rotate every 3 seconds  
+        setInterval(showSlides, 3000);  
+    </script>
+</body>
+
+</html>
+
+<!-- https://easy-peasy.ai/presets/html-css-code-generator -->

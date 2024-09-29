@@ -92,7 +92,7 @@ menuLinks.forEach(function (link) {
     link.addEventListener("click", function (e) {
         e.stopPropagation(); // prevent the event from bubbling up to parent elements
         var element = link.parentElement;
-        if (parseInt(window.innerWidth, 10) < 1200) {
+        if (parseInt(window.innerWidth, 10) < 1200) 
             if (element.classList.contains("open")) {
                 element.classList.remove("open");
                 element.querySelector("ul").style.display = "none";
@@ -100,7 +100,6 @@ menuLinks.forEach(function (link) {
                 element.classList.add("open");
                 element.querySelector("ul").style.display = "block";
             }
-        }
     });
 });
 
@@ -109,19 +108,14 @@ var headerBar = document.querySelector(".header-bar");
 headerBar.addEventListener("click", function () {
     headerBar.classList.toggle("active");
     var menu = document.querySelector(".menu");
-    if (menu) {
-        menu.classList.toggle("active");
-    }
+    if (menu) menu.classList.toggle("active");
 });
 
 //Header
 var fixedTop = document.querySelector("header");
 window.addEventListener("scroll", function () {
-    if (window.scrollY > 300) {
-        fixedTop.classList.add("header-fixed", "fadeInUp");
-    } else {
-        fixedTop.classList.remove("header-fixed", "fadeInUp");
-    }
+    if (window.scrollY > 300) fixedTop.classList.add("header-fixed", "fadeInUp");
+     else fixedTop.classList.remove("header-fixed", "fadeInUp");   
 })
 // =================== header js end here =================== //
 //Animation on Scroll initializing
@@ -294,3 +288,45 @@ if (scrollToTop) {
 // =================== count start here =================== //
 new PureCounter();
 // =================== count end here =================== //
+
+
+const s = 100000;
+        const slider = document.querySelector('.slider');
+        const slides = document.querySelectorAll('.slide');
+        const prevBtn = document.querySelector('.prev-btn');
+        const nextBtn = document.querySelector('.next-btn');
+        let currentIndex = 0;
+        const slideWidth = slides[0].clientWidth;
+        const totalSlides = slides.length;
+        const slidesToShow = 4; // Number of slides to show at once
+        const totalScrollSlides = totalSlides - slidesToShow;
+
+        // Set up the initial position of the slider
+        function setSliderPosition() {
+            slider.style.transform = `translateX(${-currentIndex * slideWidth}px)`;
+        }
+
+        setSliderPosition();
+
+        // Next Button
+        nextBtn.addEventListener('click', () => {
+            if (currentIndex < totalScrollSlides) currentIndex++;
+            else currentIndex = 0;
+            setSliderPosition();
+        });
+
+        // Previous Button
+        prevBtn.addEventListener('click', () => {
+            if (currentIndex > 0) currentIndex--;
+            else currentIndex = totalScrollSlides;
+            setSliderPosition();
+        });
+
+        // Autoplay every 3 seconds
+        let autoPlay = setInterval(() => {
+            nextBtn.click();
+        }, s);
+
+        // Pause autoplay on mouseover, resume on mouseout
+        slider.addEventListener('mouseover', () => clearInterval(autoPlay));
+        slider.addEventListener('mouseout', () => autoPlay = setInterval(() => nextBtn.click(), s));

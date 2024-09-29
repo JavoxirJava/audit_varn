@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Slider</title>
+    <style>
+
+        body {
+            background-color: #f0f0f0;
+        }
+
+        .slider-box {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* height: 500px; */
+            background-color: #f0f0f0;
+            max-width: 1400px;
+            margin: auto;
+        }
+
+        .slider-container {
+            position: relative;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .slider {
+            display: flex;
+            transition: transform 0.5s ease-in-out;
+        }
+
+        .slide {
+            position: relative;
+            min-width: 25%;
+            /* 100% / 4 images */
+            box-sizing: border-box;
+            padding: 30px;
+            background-color: rgba(240, 240, 240, 0);
+        }
+
+        .slide::after {
+            content: "";
+            width: 96%;
+            height: 250px;
+            background-color: white;
+            position: absolute;
+            left: 2%;
+            bottom: 10px;
+            z-index: -1;
+            border-radius: 24px;
+        }
+
+        .slide img {
+            height: 337px;
+            object-fit: cover;
+            width: 100%;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .slide h4, .slide p {
+            padding: 0 10px;
+            text-align: center;
+        }
+
+        .slide h4 {
+            font-size: 22px;
+            margin: 10px 0;
+        }
+
+        .slide p {
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <button class="prev-btn">‹</button>
+    <button class="next-btn">›</button>
+    <div class="slider-box">
+        <div class="slider-container">
+            <div class="slider">
+                <div class="slide">
+                    <img src="assets/images/bg/image.png" alt="Image 1">
+                    <h4>Lorem ipsum dolor sit amet consectetur.</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                </div>
+                <div class="slide">
+                    <img src="assets/images/bg/image2.png" alt="Image 2">
+                    <h4>Lorem ipsum dolor sit amet consectetur.</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                </div>
+                <div class="slide">
+                    <img src="assets/images/bg/image3.png" alt="Image 3">
+                    <h4>Lorem ipsum dolor sit amet consectetur.</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                </div>
+                <div class="slide">
+                    <img src="assets/images/bg/image4.png" alt="Image 4">
+                    <h4>Lorem ipsum dolor sit amet consectetur.</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                </div>
+                <div class="slide">
+                    <img src="assets/images/bg/image5.png" alt="Image 5">
+                    <h4>Lorem ipsum dolor sit amet consectetur.</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                </div>
+                <div class="slide">
+                    <img src="assets/images/bg/image6.png" alt="Image 6">
+                    <h4>Lorem ipsum dolor sit amet consectetur.</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                </div>
+                <div class="slide">
+                    <img src="assets/images/blog/1.png" alt="Image 7">
+                    <h4>Lorem ipsum dolor sit amet consectetur.</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                </div>
+                <div class="slide">
+                    <img src="assets/images/bg/bg-image.png" alt="Image 8">
+                    <h4>Lorem ipsum dolor sit amet consectetur.</h4>
+                    <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        const s = 100000;
+        const slider = document.querySelector('.slider');
+        const slides = document.querySelectorAll('.slide');
+        const prevBtn = document.querySelector('.prev-btn');
+        const nextBtn = document.querySelector('.next-btn');
+        let currentIndex = 0;
+        const slideWidth = slides[0].clientWidth;
+        const totalSlides = slides.length;
+        const slidesToShow = 4; // Number of slides to show at once
+        const totalScrollSlides = totalSlides - slidesToShow;
+
+        // Set up the initial position of the slider
+        function setSliderPosition() {
+            slider.style.transform = `translateX(${-currentIndex * slideWidth}px)`;
+        }
+
+        setSliderPosition();
+
+        // Next Button
+        nextBtn.addEventListener('click', () => {
+            if (currentIndex < totalScrollSlides) currentIndex++;
+            else currentIndex = 0;
+            setSliderPosition();
+        });
+
+        // Previous Button
+        prevBtn.addEventListener('click', () => {
+            if (currentIndex > 0) currentIndex--;
+            else currentIndex = totalScrollSlides;
+            setSliderPosition();
+        });
+
+        // Autoplay every 3 seconds
+        let autoPlay = setInterval(() => {
+            nextBtn.click();
+        }, s);
+
+        // Pause autoplay on mouseover, resume on mouseout
+        slider.addEventListener('mouseover', () => clearInterval(autoPlay));
+        slider.addEventListener('mouseout', () => autoPlay = setInterval(() => nextBtn.click(), s));
+    </script>
+</body>
+
+</html>
