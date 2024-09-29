@@ -41,11 +41,11 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-<div>
+<body>
 
   <!-- ===============>> Preloader start here <<================= -->
   <div class="preloader">
-    <img src="assets/images/logo/preloader.png" alt="preloader icon">
+    <img loading="lazy" src="assets/images/logo/preloader.png" alt="preloader icon">
   </div>
   <!-- ===============>> Preloader end here <<================= -->
 
@@ -92,7 +92,7 @@
             </ul>
           </div>
           <div class="lightdark-switch ms-3">
-            <span class="dark-btn p-0 border-0" id="btnSwitch" style="width: 33px; height: 33px;"><img
+            <span class="dark-btn p-0 border-0" id="btnSwitch" style="width: 33px; height: 33px;"><img loading="lazy"
                 src="assets/images/icon/moon.svg" alt="lightdark-switch" class="swtich-icon"></span>
           </div>
         </div>
@@ -111,7 +111,7 @@
             <div class="header-wrapper">
               <div class="logo">
                 <a href="index.html">
-                  <img class="dark" src="assets/images/logo/logo.svg" alt="logo">
+                  <img loading="lazy" class="dark" src="assets/images/logo/logo.svg" alt="logo">
                 </a>
               </div>
               <div class="menu-area">
@@ -217,12 +217,12 @@
             <div class="col-lg-6 col-md-6">
               <div class=" banner-images d-flex flex-column">
                 <div>
-                  <img src="assets/images/bg/image.png" alt="work 1">
-                  <img src="assets/images/bg/image2.png" alt="work 2">
+                  <img loading="lazy" src="assets/images/bg/image.png" alt="work 1">
+                  <img loading="lazy" src="assets/images/bg/image2.png" alt="work 2">
                 </div>
                 <div>
-                  <img src="assets/images/bg/image3.png" alt="work 3">
-                  <img src="assets/images/bg/image4.png" alt="work 4">
+                  <img loading="lazy" src="assets/images/bg/image3.png" alt="work 3">
+                  <img loading="lazy" src="assets/images/bg/image4.png" alt="work 4">
                 </div>
               </div>
             </div>
@@ -242,35 +242,35 @@
             <div class="swiper-slide">
               <div class="partner__item">
                 <div class="partner__item-inner">
-                  <img src="assets/images/partner/light/1.png" alt="partner logo">
+                  <img loading="lazy" src="assets/images/partner/light/1.png" alt="partner logo">
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="partner__item">
                 <div class="partner__item-inner">
-                  <img src="assets/images/partner/light/2.png" alt="partner logo">
+                  <img loading="lazy" src="assets/images/partner/light/2.png" alt="partner logo">
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="partner__item">
                 <div class="partner__item-inner">
-                  <img src="assets/images/partner/light/3.png" alt="partner logo">
+                  <img loading="lazy" src="assets/images/partner/light/3.png" alt="partner logo">
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="partner__item">
                 <div class="partner__item-inner">
-                  <img src="assets/images/partner/light/4.png" alt="partner logo">
+                  <img loading="lazy" src="assets/images/partner/light/4.png" alt="partner logo">
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="partner__item">
                 <div class="partner__item-inner">
-                  <img src="assets/images/partner/light/5.png" alt="partner logo">
+                  <img loading="lazy" src="assets/images/partner/light/5.png" alt="partner logo">
                 </div>
               </div>
             </div>
@@ -290,7 +290,7 @@
             <div class="about__thumb" data-aos="fade-right" data-aos-duration="800">
               <div class="about__thumb-inner">
                 <div class="about__thumb-image floating-content">
-                  <img class="dark" src="assets/images/bg/image5.png" alt="about-image">
+                  <img loading="lazy" class="dark" src="assets/images/bg/image5.png" alt="about-image">
                   <div class="floating-content__top-left">
                     <div class="floating-content__item">
                       <h3> <span class="purecounter" data-purecounter-start="0" data-purecounter-end="28">28</span>
@@ -465,97 +465,110 @@
     <div class="service_bg service_bg-1"></div>
     <div class="service_bg service_bg-2"></div>
     <div class="container mt-5 pt-75">
-      <a href="about.html" class="trk-btn trk-btn--border trk-btn--primary1 fw-normal float-end">Посмотреть все</a>
-      <h3 class="py-1 m-0">Новости</h3>
+      <a data-aos="fade-left" href="about.html"
+        class="trk-btn trk-btn--border trk-btn--primary1 fw-normal float-end">Посмотреть все</a>
+      <h3 data-aos="fade-right" class="py-1 m-0">Новости</h3>
       <div class="row flex-nowrap mt-5">
-        <div class="col-9 row news_box">
-          <div class="card">
-            <img src="assets/images/news/image.png" class="card-img-top" alt="news">
+        <div class="col-9 row news_box" data-aos="fade-right" data-aos-duration="2000">
+          <div class="card" data-aos="fade-up" data-aos-duration="1200">
+            <img loading="lazy" src="assets/images/news/image.png" class="card-img loading=" lazy"-top" alt="news">
             <div class="card-body">
               <h5 class="fs-5">Международная научно-практическая конференция</h5>
               <p>23-25 июня 2022 года прошла Международная научно-практическая конференция в
                 Кабардино-Балкарской Республики, городе Нальчик.</p>
               <div class="opacity-50 d-flex align-items-center flex-row my-2">
-                <span><img src="assets/images/news/calendar.png" alt="Calendar" style="margin-top: -5px;">
+                <span><img loading="lazy" src="assets/images/news/calendar.png" alt="Calendar"
+                    style="margin-top: -5px;">
                   29.06.2022</span>
                 <span class="vr"></span>
-                <span><img src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;"> 365</span>
+                <span><img loading="lazy" src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;">
+                  365</span>
               </div>
             </div>
           </div>
-          <div class="card">
-            <img src="assets/images/news/image.png" class="card-img-top" alt="news">
+          <div class="card" data-aos="fade-up" data-aos-duration="1200">
+            <img loading="lazy" src="assets/images/news/image.png" class="card-img loading=" lazy"-top" alt="news">
             <div class="card-body">
               <h5 class="fs-5">Международная научно-практическая конференция</h5>
               <p>23-25 июня 2022 года прошла Международная научно-практическая конференция в
                 Кабардино-Балкарской Республики, городе Нальчик.</p>
               <div class="opacity-50 d-flex align-items-center flex-row my-2">
-                <span><img src="assets/images/news/calendar.png" alt="Calendar" style="margin-top: -5px;">
+                <span><img loading="lazy" src="assets/images/news/calendar.png" alt="Calendar"
+                    style="margin-top: -5px;">
                   29.06.2022</span>
                 <span class="vr"></span>
-                <span><img src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;"> 365</span>
+                <span><img loading="lazy" src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;">
+                  365</span>
               </div>
             </div>
           </div>
-          <div class="card">
-            <img src="assets/images/news/image.png" class="card-img-top" alt="news">
+          <div class="card" data-aos="fade-up" data-aos-duration="1200">
+            <img loading="lazy" src="assets/images/news/image.png" class="card-img loading=" lazy"-top" alt="news">
             <div class="card-body">
               <h5 class="fs-5">Международная научно-практическая конференция</h5>
               <p>23-25 июня 2022 года прошла Международная научно-практическая конференция в
                 Кабардино-Балкарской Республики, городе Нальчик.</p>
               <div class="opacity-50 d-flex align-items-center flex-row my-2">
-                <span><img src="assets/images/news/calendar.png" alt="Calendar" style="margin-top: -5px;">
+                <span><img loading="lazy" src="assets/images/news/calendar.png" alt="Calendar"
+                    style="margin-top: -5px;">
                   29.06.2022</span>
                 <span class="vr"></span>
-                <span><img src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;"> 365</span>
+                <span><img loading="lazy" src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;">
+                  365</span>
               </div>
             </div>
           </div>
-          <div class="card">
-            <img src="assets/images/news/image.png" class="card-img-top" alt="news">
+          <div class="card" data-aos="fade-up" data-aos-duration="1200">
+            <img loading="lazy" src="assets/images/news/image.png" class="card-img loading=" lazy"-top" alt="news">
             <div class="card-body">
               <h5 class="fs-5">Международная научно-практическая конференция</h5>
               <p>23-25 июня 2022 года прошла Международная научно-практическая конференция в
                 Кабардино-Балкарской Республики, городе Нальчик.</p>
               <div class="opacity-50 d-flex align-items-center flex-row my-2">
-                <span><img src="assets/images/news/calendar.png" alt="Calendar" style="margin-top: -5px;">
+                <span><img loading="lazy" src="assets/images/news/calendar.png" alt="Calendar"
+                    style="margin-top: -5px;">
                   29.06.2022</span>
                 <span class="vr"></span>
-                <span><img src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;"> 365</span>
+                <span><img loading="lazy" src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;">
+                  365</span>
               </div>
             </div>
           </div>
-          <div class="card">
-            <img src="assets/images/news/image.png" class="card-img-top" alt="news">
+          <div class="card" data-aos="fade-up" data-aos-duration="1200">
+            <img loading="lazy" src="assets/images/news/image.png" class="card-img loading=" lazy"-top" alt="news">
             <div class="card-body">
               <h5 class="fs-5">Международная научно-практическая конференция</h5>
               <p>23-25 июня 2022 года прошла Международная научно-практическая конференция в
                 Кабардино-Балкарской Республики, городе Нальчик.</p>
               <div class="opacity-50 d-flex align-items-center flex-row my-2">
-                <span><img src="assets/images/news/calendar.png" alt="Calendar" style="margin-top: -5px;">
+                <span><img loading="lazy" src="assets/images/news/calendar.png" alt="Calendar"
+                    style="margin-top: -5px;">
                   29.06.2022</span>
                 <span class="vr"></span>
-                <span><img src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;"> 365</span>
+                <span><img loading="lazy" src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;">
+                  365</span>
               </div>
             </div>
           </div>
-          <div class="card">
-            <img src="assets/images/news/image.png" class="card-img-top" alt="news">
+          <div class="card" data-aos="fade-up" data-aos-duration="1200">
+            <img loading="lazy" src="assets/images/news/image.png" class="card-img loading=" lazy"-top" alt="news">
             <div class="card-body">
               <h5 class="fs-5">Международная научно-практическая конференция</h5>
               <p>23-25 июня 2022 года прошла Международная научно-практическая конференция в
                 Кабардино-Балкарской Республики, городе Нальчик.</p>
               <div class="opacity-50 d-flex align-items-center flex-row my-2">
-                <span><img src="assets/images/news/calendar.png" alt="Calendar" style="margin-top: -5px;">
+                <span><img loading="lazy" src="assets/images/news/calendar.png" alt="Calendar"
+                    style="margin-top: -5px;">
                   29.06.2022</span>
                 <span class="vr"></span>
-                <span><img src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;"> 365</span>
+                <span><img loading="lazy" src="assets/images/news/eye.png" alt="eye" style="margin-top: -4px;">
+                  365</span>
               </div>
             </div>
           </div>
         </div>
         <div class="col-4">
-          <div class="ps-4 ms-3">
+          <div class="ps-4 ms-3" data-aos="fade-up" data-aos-duration="1200">
             <div class="opacity-50 d-flex align-items-center flex-row my-2">
               <span>
                 <svg style="margin-top: -5px;" width="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -580,7 +593,7 @@
             <p class="w-75 font-montserrat text-dark">Международная научно-практическая конференция</p>
             <hr style="border-color: var(--brand-color);">
           </div>
-          <div class="ps-4 ms-3">
+          <div class="ps-4 ms-3" data-aos="fade-up" data-aos-duration="1200">
             <div class="opacity-50 d-flex align-items-center flex-row my-2">
               <span>
                 <svg style="margin-top: -5px;" width="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -605,7 +618,7 @@
             <p class="w-75 font-montserrat text-dark">Международная научно-практическая конференция</p>
             <hr style="border-color: var(--brand-color);">
           </div>
-          <div class="ps-4 ms-3">
+          <div class="ps-4 ms-3" data-aos="fade-up" data-aos-duration="1200">
             <div class="opacity-50 d-flex align-items-center flex-row my-2">
               <span>
                 <svg style="margin-top: -5px;" width="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -630,7 +643,7 @@
             <p class="w-75 font-montserrat text-dark">Международная научно-практическая конференция</p>
             <hr style="border-color: var(--brand-color);">
           </div>
-          <div class="ps-4 ms-3">
+          <div class="ps-4 ms-3" data-aos="fade-up" data-aos-duration="1200">
             <div class="opacity-50 d-flex align-items-center flex-row my-2">
               <span>
                 <svg style="margin-top: -5px;" width="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -655,7 +668,7 @@
             <p class="w-75 font-montserrat text-dark">Международная научно-практическая конференция</p>
             <hr style="border-color: var(--brand-color);">
           </div>
-          <div class="ps-4 ms-3">
+          <div class="ps-4 ms-3" data-aos="fade-up" data-aos-duration="1200">
             <div class="opacity-50 d-flex align-items-center flex-row my-2">
               <span>
                 <svg style="margin-top: -5px;" width="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -680,7 +693,7 @@
             <p class="w-75 font-montserrat text-dark">Международная научно-практическая конференция</p>
             <hr style="border-color: var(--brand-color);">
           </div>
-          <div class="ps-4 ms-3">
+          <div class="ps-4 ms-3" data-aos="fade-up" data-aos-duration="1200">
             <div class="opacity-50 d-flex align-items-center flex-row my-2">
               <span>
                 <svg style="margin-top: -5px;" width="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -705,7 +718,7 @@
             <p class="w-75 font-montserrat text-dark">Международная научно-практическая конференция</p>
             <hr style="border-color: var(--brand-color);">
           </div>
-          <div class="ps-4 ms-3">
+          <div class="ps-4 ms-3" data-aos="fade-up" data-aos-duration="1200">
             <div class="opacity-50 d-flex align-items-center flex-row my-2">
               <span>
                 <svg style="margin-top: -5px;" width="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -730,7 +743,7 @@
             <p class="w-75 font-montserrat text-dark">Международная научно-практическая конференция</p>
             <hr style="border-color: var(--brand-color);">
           </div>
-          <div class="ps-4 ms-3">
+          <div class="ps-4 ms-3" data-aos="fade-up" data-aos-duration="1200">
             <div class="opacity-50 d-flex align-items-center flex-row my-2">
               <span>
                 <svg style="margin-top: -5px;" width="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -771,28 +784,28 @@
             <div class="swiper-slide">
               <div class="partner__item">
                 <div class="partner__item-inner">
-                  <img src="assets/images/partner/light/1.png" alt="partner logo">
+                  <img loading="lazy" src="assets/images/partner/light/1.png" alt="partner logo">
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="partner__item">
                 <div class="partner__item-inner">
-                  <img src="assets/images/partner/light/2.png" alt="partner logo">
+                  <img loading="lazy" src="assets/images/partner/light/2.png" alt="partner logo">
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="partner__item">
                 <div class="partner__item-inner">
-                  <img src="assets/images/partner/light/3.png" alt="partner logo">
+                  <img loading="lazy" src="assets/images/partner/light/3.png" alt="partner logo">
                 </div>
               </div>
             </div>
             <div class="swiper-slide">
               <div class="partner__item">
                 <div class="partner__item-inner">
-                  <img src="assets/images/partner/light/4.png" alt="partner logo">
+                  <img loading="lazy" src="assets/images/partner/light/4.png" alt="partner logo">
                 </div>
               </div>
             </div>
@@ -800,7 +813,7 @@
               <div class="swiper-slide">
                 <div class="partner__item">
                   <div class="partner__item-inner">
-                    <img src="assets/images/partner/light/5.png" alt="partner logo">
+                    <img loading="lazy" src="assets/images/partner/light/5.png" alt="partner logo">
                   </div>
                 </div>
               </div>
@@ -831,42 +844,42 @@
         <div class="slider-container">
           <div class="slider">
             <div class="slide">
-              <img src="assets/images/experts/image.png" alt="Image 1">
+              <img loading="lazy" src="assets/images/experts/image.png" alt="Image 1">
               <h4>Lorem ipsum dolor consectetur.</h4>
               <p>Lorem ipsum dolor sit amet elit.</p>
             </div>
             <div class="slide">
-              <img src="assets/images/experts/image2.png" alt="Image 2">
+              <img loading="lazy" src="assets/images/experts/image2.png" alt="Image 2">
               <h4>Lorem ipsum dolor consectetur.</h4>
               <p>Lorem ipsum dolor sit amet elit.</p>
             </div>
             <div class="slide">
-              <img src="assets/images/experts/image3.png" alt="Image 3">
+              <img loading="lazy" src="assets/images/experts/image3.png" alt="Image 3">
               <h4>Lorem ipsum dolor consectetur.</h4>
               <p>Lorem ipsum dolor sit amet elit.</p>
             </div>
             <div class="slide">
-              <img src="assets/images/experts/image4.png" alt="Image 4">
+              <img loading="lazy" src="assets/images/experts/image4.png" alt="Image 4">
               <h4>Lorem ipsum dolor consectetur.</h4>
               <p>Lorem ipsum dolor sit amet elit.</p>
             </div>
             <div class="slide">
-              <img src="assets/images/experts/image.png" alt="Image 5">
+              <img loading="lazy" src="assets/images/experts/image.png" alt="Image 5">
               <h4>Lorem ipsum dolor consectetur.</h4>
               <p>Lorem ipsum dolor sit amet elit.</p>
             </div>
             <div class="slide">
-              <img src="assets/images/experts/image2.png" alt="Image 6">
+              <img loading="lazy" src="assets/images/experts/image2.png" alt="Image 6">
               <h4>Lorem ipsum dolor consectetur.</h4>
               <p>Lorem ipsum dolor sit amet elit.</p>
             </div>
             <div class="slide">
-              <img src="assets/images/experts/image3.png" alt="Image 7">
+              <img loading="lazy" src="assets/images/experts/image3.png" alt="Image 7">
               <h4>Lorem ipsum dolor consectetur.</h4>
               <p>Lorem ipsum dolor sit amet elit.</p>
             </div>
             <div class="slide">
-              <img src="assets/images/experts/image4.png" alt="Image 8">
+              <img loading="lazy" src="assets/images/experts/image4.png" alt="Image 8">
               <h4>Lorem ipsum dolor consectetur.</h4>
               <p>Lorem ipsum dolor sit amet elit.</p>
             </div>
@@ -876,7 +889,8 @@
   <!-- ===============>> Blog section start here <<================= -->
 
   <!-- ===============>> cta section start here <<================= -->
-  <section class="blog padding-top padding-bottom bg-color-4 align-items-center d-flex position-relative" style="height: 80vh;z-index: 1;">
+  <section class="blog padding-top padding-bottom bg-color-4 align-items-center d-flex position-relative"
+    style="height: 80vh;z-index: 1;">
     <div class="container">
       <div class="section-header d-md-flex align-items-center justify-content-between">
         <div class="section-header__content" data-aos="fade-right">
@@ -898,7 +912,7 @@
                   <div class="blog__content">
                     <div class="blog__writer">
                       <div class="blog__writer-thumb">
-                        <img
+                        <img loading="lazy"
                           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0WxAubQyY-WaN8W-esXaxi_SfTKpjHYIf9w&s"
                           alt="writer">
                       </div>
@@ -948,7 +962,7 @@
                   <div class="blog__content">
                     <div class="blog__writer">
                       <div class="blog__writer-thumb">
-                        <img
+                        <img loading="lazy"
                           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0WxAubQyY-WaN8W-esXaxi_SfTKpjHYIf9w&s"
                           alt="writer">
                       </div>
@@ -998,7 +1012,7 @@
                   <div class="blog__content">
                     <div class="blog__writer">
                       <div class="blog__writer-thumb">
-                        <img
+                        <img loading="lazy"
                           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0WxAubQyY-WaN8W-esXaxi_SfTKpjHYIf9w&s"
                           alt="writer">
                       </div>
@@ -1051,151 +1065,151 @@
   </section>
   <!-- ===============>> cta section start here <<================= -->
 
+  <!-- ===============>> partner section start here <<================= -->
+  <div class="partner partner-2 partner-3 partner--gradient" style="height: 93px;">
+    <div class="container">
+      <div class="partner__wrapper">
+        <div class="partner__slider swiper">
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- ===============>> partner section end here <<================= -->
+
   <!-- ===============>> footer start here <<================= -->
   <footer class="footer brand-1">
     <div class="container">
       <div class="footer__wrapper">
         <div class="footer__top footer__top--style1">
           <div class="row gy-5 gx-4">
-            <div class="col-lg-6 col-md-5">
+            <div class="col-lg-4 col-md-5">
               <div class="footer__about">
-                <a href="index.html" class="footer__about-logo"><img src="assets/images/logo/Logo-white.png"
+                <a href="index.html" class="footer__about-logo"><img loading="lazy" src="assets/images/logo/logo2.svg"
                     alt="Logo"></a>
-                <p class="footer__about-moto ">Welcome to our trading site! We offer the best, most
-                  affordable products and services around. Shop now and start finding great deals!</p>
-                <div class="footer__app">
-                  <div class="footer__app-item footer__app-item--apple">
-                    <div class="footer__app-inner">
-                      <div class="footer__app-thumb">
-                        <a href="https://www.apple.com/app-store/" target="_blank" class="stretched-link">
-                          <img src="assets/images/footer/apple.png" alt="apple-icon">
-                        </a>
-                      </div>
-                      <div class="footer__app-content">
-                        <span>Download on the</span>
-                        <p class="mb-0">App Store</p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="footer__app-item footer__app-item--playstore">
-                    <div class="footer__app-inner">
-                      <div class="footer__app-thumb">
-                        <a href="https://play.google.com/store" target="_blank" class="stretched-link">
-                          <img src="assets/images/footer/play.png" alt="playstore-icon">
-                        </a>
-                      </div>
-                      <div class="footer__app-content">
-                        <span>get it on</span>
-                        <p class="mb-0">Google Play</p>
-                      </div>
-                    </div>
-                  </div>
+                <div class="mt-2">
+                  <ul class="social">
+                    <li class="social__item">
+                      <a href="#" class="social__link social__link--style2"><i class="fab fa-facebook-f"></i></a>
+                    </li>
+                    <li class="social__item">
+                      <a href="#" class="social__link social__link--style2 "><i class="fab fa-instagram"></i></a>
+                    </li>
+                    <li class="social__item">
+                      <a href="#" class="social__link social__link--style2"><i class="fa-brands fa-linkedin-in"></i></a>
+                    </li>
+                    <li class="social__item">
+                      <a href="#" class="social__link social__link--style2"><i class="fab fa-youtube"></i></a>
+                    </li>
+                    <li class="social__item">
+                      <a href="signin.html" class="social__link social__link--style2 d-sm-none d-md-block"><i
+                          class="fab fa-twitter"></i></a>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>
             <div class="col-lg-2 col-md-2 col-sm-4 col-6">
               <div class="footer__links">
                 <div class="footer__links-tittle">
-                  <h6>Quick links</h6>
+                  <h6 style="font-size: 22px; font-weight: 500;" class="font-montserrat"
+                    onclick="location.href='index.html'">Меню</h6>
                 </div>
                 <div class="footer__links-content">
                   <ul class="footer__linklist">
-                    <li class="footer__linklist-item"> <a href="about.html">About Us</a>
+                    <li class="footer__linklist-item"> <a href="index.html">О нас</a>
                     </li>
-                    <li class="footer__linklist-item"> <a href="team.html">Teams</a>
+                    <li class="footer__linklist-item"> <a href="index.html">Услуги</a>
                     </li>
-                    <li class="footer__linklist-item"> <a href="services.html">Services</a> </li>
-                    <li class="footer__linklist-item"> <a href="#">Features</a>
+                    <li class="footer__linklist-item"> <a href="index.html">Наши клиенты</a> </li>
+                    <li class="footer__linklist-item"> <a href="index.html">Контакты</a>
                     </li>
                   </ul>
                 </div>
               </div>
-
             </div>
-            <div class="col-lg-2 col-md-3 col-sm-4 col-6">
+            <div class="col-lg-6 col-md-4 col-sm-5 col-6">
               <div class="footer__links">
                 <div class="footer__links-tittle">
-                  <h6>Support</h6>
+                  <h6 style="font-size: 22px; font-weight: 500;" class="font-montserrat">Контактная информация</h6>
                 </div>
-                <div class="footer__links-content">
-                  <ul class="footer__linklist">
-                    <li class="footer__linklist-item"> <a href="#">Terms & Conditions</a>
-                    </li>
-                    <li class="footer__linklist-item"> <a href="#">Privacy Policy</a>
-                    </li>
-                    <li class="footer__linklist-item"> <a href="#">FAQs</a></li>
-                    <li class="footer__linklist-item"> <a href="#">Support Center</a> </li>
-                  </ul>
+                <div class="row contact-info">
+                  <div class="col-4">
+                    <p>Телефон:</p>
+                    <div class="d-flex flex-row align-items-center">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="bi bi-telephone" viewBox="0 0 16 16">
+                        <path
+                          d="M3.654 1.328a.678.678 0 0 0-1.015-.063L1.605 2.3c-.483.484-.661 1.169-.45 1.77a17.6 17.6 0 0 0 4.168 6.608 17.6 17.6 0 0 0 6.608 4.168c.601.211 1.286.033 1.77-.45l1.034-1.034a.678.678 0 0 0-.063-1.015l-2.307-1.794a.68.68 0 0 0-.58-.122l-2.19.547a1.75 1.75 0 0 1-1.657-.459L5.482 8.062a1.75 1.75 0 0 1-.46-1.657l.548-2.19a.68.68 0 0 0-.122-.58zM1.884.511a1.745 1.745 0 0 1 2.612.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z" />
+                      </svg>
+                      <div>
+                        <a href="tel:+998712762099">+998 (71) 276-20-99</a>
+                        <a href="tel:+998935500633">+998 (93) 550-06-33</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-4">
+                    <p>Э-почта:</p>
+                    <div class="d-flex flex-row align-items-center">
+                      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                          d="M17 21.25H7C3.35 21.25 1.25 19.15 1.25 15.5V8.50003C1.25 4.85003 3.35 2.75003 7 2.75003H17C20.65 2.75003 22.75 4.85003 22.75 8.50003V15.5C22.75 19.15 20.65 21.25 17 21.25ZM7 4.25003C4.14 4.25003 2.75 5.64003 2.75 8.50003V15.5C2.75 18.36 4.14 19.75 7 19.75H17C19.86 19.75 21.25 18.36 21.25 15.5V8.50003C21.25 5.64003 19.86 4.25003 17 4.25003H7Z"
+                          fill="#A60064" />
+                        <path
+                          d="M11.9998 12.87C11.1598 12.87 10.3098 12.61 9.65978 12.08L6.52978 9.57997C6.20978 9.31997 6.14978 8.84997 6.40978 8.52997C6.66978 8.20997 7.13978 8.14997 7.45978 8.40997L10.5898 10.91C11.3498 11.52 12.6398 11.52 13.3998 10.91L16.5298 8.40997C16.8498 8.14997 17.3298 8.19997 17.5798 8.52997C17.8398 8.84997 17.7898 9.32997 17.4598 9.57997L14.3298 12.08C13.6898 12.61 12.8398 12.87 11.9998 12.87Z"
+                          fill="#A60064" />
+                      </svg>
+                      <div>
+                        <a href="mailto:audit@varn.uz">audit@varn.uz</a>
+                        <a href="mailto:nelly@varn.uz">nelly@varn.uz</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-4">
+                    <p>Адрес:</p>
+                    <div class="d-flex flex-row align-items-center">
+                      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path
+                          d="M11.9999 14.1699C9.86988 14.1699 8.12988 12.4399 8.12988 10.2999C8.12988 8.15994 9.86988 6.43994 11.9999 6.43994C14.1299 6.43994 15.8699 8.16994 15.8699 10.3099C15.8699 12.4499 14.1299 14.1699 11.9999 14.1699ZM11.9999 7.93994C10.6999 7.93994 9.62988 8.99994 9.62988 10.3099C9.62988 11.6199 10.6899 12.6799 11.9999 12.6799C13.3099 12.6799 14.3699 11.6199 14.3699 10.3099C14.3699 8.99994 13.2999 7.93994 11.9999 7.93994Z"
+                          fill="#A60064" />
+                        <path
+                          d="M12.0007 22.76C10.5207 22.76 9.03066 22.2 7.87066 21.09C4.92066 18.25 1.66066 13.72 2.89066 8.33C4.00066 3.44 8.27066 1.25 12.0007 1.25C12.0007 1.25 12.0007 1.25 12.0107 1.25C15.7407 1.25 20.0107 3.44 21.1207 8.34C22.3407 13.73 19.0807 18.25 16.1307 21.09C14.9707 22.2 13.4807 22.76 12.0007 22.76ZM12.0007 2.75C9.09066 2.75 5.35066 4.3 4.36066 8.66C3.28066 13.37 6.24066 17.43 8.92066 20C10.6507 21.67 13.3607 21.67 15.0907 20C17.7607 17.43 20.7207 13.37 19.6607 8.66C18.6607 4.3 14.9107 2.75 12.0007 2.75Z"
+                          fill="#A60064" />
+                      </svg>
+                      <div>
+                        <a href="#">100097 г. Ташкент, пр-т</a>
+                        <a href="#">Бунедкор, дом - 42</a>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
-
-            </div>
-            <div class="col-lg-2 col-md-2 col-sm-4">
-              <div class="footer__links">
-                <div class="footer__links-tittle">
-                  <h6>Company</h6>
-                </div>
-                <div class="footer__links-content">
-                  <ul class="footer__linklist">
-                    <li class="footer__linklist-item"> <a href="#">Careers</a>
-                    </li>
-                    <li class="footer__linklist-item"> <a href="#">Updates</a>
-                    </li>
-                    <li class="footer__linklist-item"> <a href="#">Job</a> </li>
-                    <li class="footer__linklist-item"> <a href="#">Announce</a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-
             </div>
           </div>
         </div>
         <div class="footer__bottom">
           <div class="footer__end">
             <div class="footer__end-copyright">
-              <p class=" mb-0">© 2023 All Rights Reserved By <a href="https://themeforest.net/user/thetork/portfolio"
-                  target="_blank">Thetork</a> </p>
+              <p class=" mb-0">Copyright© 2024 VARN | Все права защищены</p>
             </div>
             <div>
-              <ul class="social">
-                <li class="social__item">
-                  <a href="#" class="social__link social__link--style2"><i class="fab fa-facebook-f"></i></a>
-                </li>
-                <li class="social__item">
-                  <a href="#" class="social__link social__link--style2 "><i class="fab fa-instagram"></i></a>
-                </li>
-                <li class="social__item">
-                  <a href="#" class="social__link social__link--style2"><i class="fa-brands fa-linkedin-in"></i></a>
-                </li>
-                <li class="social__item">
-                  <a href="#" class="social__link social__link--style2"><i class="fab fa-youtube"></i></a>
-                </li>
-                <li class="social__item">
-                  <a href="signin.html" class="social__link social__link--style2 d-sm-none d-md-block"><i
-                      class="fab fa-twitter"></i></a>
-                </li>
+              <ul class="footer-menu wow fadeInRight" data-wow-delay=".4s"
+                style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInRight;">
+                Разработка сайтов - <a href="https://oqila.uz"><img loading="lazy"
+                    src="https://mariolivagroup.uz/wp-content/themes/wp-bootstrap-starter/assets/img loading="
+                    lazy"/logo/oqila-logo.png" width="66"></a>
               </ul>
             </div>
           </div>
         </div>
       </div>
     </div>
-    <div class="footer__shape">
-      <span class="footer__shape-item footer__shape-item--1"><img src="assets/images/footer/1.png"
-          alt="shape icon"></span>
-      <span class="footer__shape-item footer__shape-item--2"><img src="assets/images/footer/2.png"
-          alt="shape icon"></span>
-      <span class="footer__shape-item footer__shape-item--3"><img src="assets/images/footer/3.png"
-          alt="shape icon"></span>
-      <span class="footer__shape-item footer__shape-item--4"><img src="assets/images/footer/4.png"
-          alt="shape icon"></span>
-    </div>
   </footer>
   <!-- ===============>> footer end here <<================= -->
 
   <!-- ===============>> scrollToTop start here <<================= -->
-  <a href="#" class="scrollToTop scrollToTop--home1"><i class="fa-solid fa-arrow-up-from-bracket"></i></a>
+  <a href="#" class="scrollToTop">
+    <img loading="lazy" src="assets/images/logo/top-icon.svg" alt="top icon">
+  </a>
   <!-- ===============>> scrollToTop ending here <<================= -->
 
   <!-- vendor plugins -->
@@ -1207,6 +1221,6 @@
   <script src="assets/js/purecounter_vanilla.js"></script>
 
   <script src="assets/js/custom.js"></script>
-  </body>
+</body>
 
 </html>

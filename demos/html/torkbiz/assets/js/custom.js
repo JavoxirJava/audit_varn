@@ -264,24 +264,6 @@ window.addEventListener("scroll", function () {
     }
   }
 });
-
-var scrollToTop = document.querySelector(".scrollToTop");
-
-if (scrollToTop) {
-  // Click event to scroll to top
-  scrollToTop.addEventListener("click", function (e) {
-    e.preventDefault();
-    var scrollDuration = 100; // Set scroll duration in milliseconds
-    var scrollStep = -window.scrollY / (scrollDuration / 15);
-    var scrollInterval = setInterval(function () {
-      if (window.scrollY !== 0) {
-        window.scrollBy(0, scrollStep);
-      } else {
-        clearInterval(scrollInterval);
-      }
-    }, 15);
-  });
-}
 // =================== scroll js end here =================== //
 
 // =================== count start here =================== //
