@@ -8764,7 +8764,7 @@ html[data-bs-theme=dark] .social__link--style2 {
   position: absolute;
   top: -50px;
   left: 0;
-  background-image: url('../images/bg/bg-image.png');
+  background-image: url('../images/bg/bg-image.webp');
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -8840,7 +8840,7 @@ html[data-bs-theme=dark] .social__link--style2 {
 }
 
 .service_box div {
-  background-image: url('../images/bg/image6.png');
+  background-image: url('../images/bg/image6.webp');
   background-repeat: no-repeat;
   background-position: 90% bottom;
   background-size: 130% 70%;
@@ -8852,7 +8852,7 @@ html[data-bs-theme=dark] .social__link--style2 {
   position: absolute;
   width: 500px;
   height: 150px;
-  background-image: url('../images/bg/bg-image.png');
+  background-image: url('../images/bg/bg-image.webp');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center center;
@@ -9000,7 +9000,7 @@ html[data-bs-theme=dark] .social__link--style2 {
 }
 
 .news_bg {
-  background-image: url('../images/news/bg.png');
+  background-image: url('../images/news/bg.webp');
   width: 100vw;
   height: 1000px;
   left: 0;
